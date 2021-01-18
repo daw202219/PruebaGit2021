@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package arrays1;
-
 /**
  *
  * @author Liam
@@ -16,6 +15,7 @@ public class Arrays1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("VERSION 2.0");
         System.out.println("Empiezo programa");
         int numeros[]={5,7,3,2,6,3};
         for (int i=0;i<numeros.length;i++)
