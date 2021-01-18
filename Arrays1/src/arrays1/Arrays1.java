@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package arrays1;
+import java.util.Arrays;
 /**
  *
  * @author Liam
